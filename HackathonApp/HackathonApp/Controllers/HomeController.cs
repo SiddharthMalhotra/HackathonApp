@@ -12,5 +12,10 @@ namespace HackathonApp.Controllers
         {
             return View();
         }
+        public string Index1()
+        {
+            return "Hello";
+
+        }
     }
 }
